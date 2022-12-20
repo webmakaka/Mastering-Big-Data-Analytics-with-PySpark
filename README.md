@@ -1,15 +1,3 @@
-
-### Get this product for $5
-
-<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
-
-
-<b><p align='center'>[Buy now](https://packt.link/9781838640583)</p></b>
-
-
-<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
-
-
 # Mastering Big Data Analytics with PySpark [Video]
 This is the code repository for [Mastering Big Data Analytics with PySpark [Video]]( https://www.packtpub.com/data/mastering-big-data-analytics-with-pyspark-video), published by [Packt](https://www.packtpub.com/?utm_source=github ). It contains all the supporting project files necessary to work through the video course from start to finish.
 Authored by: [Danny Meijer](https://www.linkedin.com/in/dannydatascientist)
@@ -138,9 +126,9 @@ Once you are ready to shutdown the Docker container, you can use the following c
 docker stop mastering_pyspark_ml
 ```
 
-## Related Products
-* [Hands-On Continuous Integration and Delivery with Jenkins X and Kubernetes [Video]](https://www.packtpub.com/cloud-networking/hands-on-continuous-integration-and-delivery-with-jenkins-x-and-kubernetes-video)
 
-* [Mastering Palo Alto Networks [Video]](https://www.packtpub.com/networking-and-servers/mastering-palo-alto-networks-video)
 
-* [Hands-On Systems Programming with Rust [Video]](https://www.packtpub.com/programming/hands-on-systems-programming-with-rust-video)
+
+### Jupyter Notebook Python, Spark Stack
+
+https://github.com/jupyter/docker-stacks/tree/main/pyspark-notebook
